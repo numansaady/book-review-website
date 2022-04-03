@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "I previously wrote this review right after reading the book. Today, February 15th, after applying James’s system for 100 days on a few tiny habits, I feel compelled to share updates with you because they have sincerely worked."
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "I've read a lot of books on changing behavior and building habits and James Clear's Atomic Habits is my new favorite. This book is different from others in the way it covers an enormous amount of ground in the larger area of self-improvement while seamlessly tying all these ideas back into the central theme of habits."
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "ratings": 4.7,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "One of the core concepts in Atomic Habits is to focus on the small improvement. The impact a 1% improvement per day can make may appear negligible at first, but Clear makes a compelling argument that in the case of habits, thinking small produces the biggest results over time. 'Habits are the compound interest of self-improvement,' explains Clear."
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "ratings": 4.8,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "Virtually every idea in the book is useful and resonated with me. While I may not agree that we should 'forget about goals,' I agree with one of Clear's core principles in the book - that we must develop systems for change. If we only focus on goals and don't develop systems and a focus on the process, we risk falling into a number of goal-related traps which ultimately lead to stagnation. With the right systems, we're rewarded with continuous improvement on a lifelong journey of success."
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "This is a concept I was introduced to years ago under a different name - Kaizen - the Japanese term for continuous incremental improvement. What's different and new in this book is how the concept is applied specifically to building habits."
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "I found the information introduced in chapter two about behavior change at the identity level to be spot-on. You're also given a simple two-step process for changing your identity and this one idea alone is incredibly powerful."
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "In chapter three, we are introduced to the habit loop - cue, craving, response, reward - and we learn how to build good habits in 4 simple steps and break bad habits in 4 simple steps."
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "ratings": 5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "An ideas of great value that stood out included, habit stacking (the best way to form a new habit), habit tracking, habit shaping and how to design your environment - physical and social - for habit building success. You learn the truth about self-control, how to stop procrastinating and how to use implementation intentions, temptation bundling and motivational rituals. The book is simply packed with actionable ideas, tactics and strategies."
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "ratings": 4.5,
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/35cc643a-3d48-417e-82a7-cb671b4d5516._CR41,0,418,418_SX48_.jpg",
+    "review": "Difference between Atomic Habits and other books in this genre is that while it's based on science it doesn't bog you down with unnecessary details of the research. Clear's book is intensely practical, giving you a huge toolkit of organized and named strategies you can apply immediately to create and strengthen positive habits and stop the negative ones."
+  }
+]
