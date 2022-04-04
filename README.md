@@ -1,8 +1,21 @@
-# Getting Started with Create React App
+# **`Book Review Site`**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click the link: [Book Review Site](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Included Features in this project
+
+- **`Added Reviews about Atomic Habits`**
+- **`Added Four Charts in Dashboard`**
+- **`Some Briefing about Semantic Tags, Context API and Inline vs block elements`**
+- **`In Homepage 3 Reviews and In Reviews page All reviews`**
+
+## Included Technology in this project
+
+- **[React](https://reactjs.org/)**
+- **[React Router](https://reactrouter.com/)**
+- **[React Custom Hooks](https://reactjs.org/docs/hooks-custom.html)**
+- **[Recharts](https://recharts.org/en-US/)**
+- **[React-Bootstrap](https://react-bootstrap.github.io/)**
 
 In the project directory, you can run:
 
