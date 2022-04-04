@@ -1,9 +1,9 @@
 import React from "react";
+import useReviews from '../../hooks/useReviews';
 import Review from "../Review/Review";
 
-const Reviews = (props) => {
-  const reviews = props.reviews;
-  console.log(reviews)
+const Reviews = () => {
+  const [reviews, setReviews] = useReviews();
   return (
     <div className="reviews-area">
       <div className="container">
