@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Banner = () => {
   return (
@@ -8,7 +9,7 @@ const Banner = () => {
           <div className="row align-items-center">
             <div className="col-md-7 pe-5">
               <h1 className="display-2 fw-bold">
-                Best Selling Book <br /> <span>Of 2021</span>
+                Best Selling Book <br /> <span className="text-warning">Of 2021</span>
               </h1>
               <p className="h5 mt-2">
                 No matter your goals, Atomic Habits offers a proven framework
@@ -18,7 +19,9 @@ const Banner = () => {
                 ones, and master the tiny behaviors that lead to remarkable
                 results.
               </p>
+              <Link to='/reviews'>
               <button className="btn btn-lg mt-4 btn-secondary">See More</button>
+              </Link>
             </div>
             <div className="col-md-5 banner-img">
               <img
