@@ -7,7 +7,7 @@ const Banner = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-7 pe-5">
-              <h1 className="display-2">
+              <h1 className="display-2 fw-bold">
                 Best Selling Book <br /> <span>Of 2021</span>
               </h1>
               <p className="h5 mt-2">

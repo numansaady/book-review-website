@@ -11,8 +11,8 @@ const Home = () => {
       <Banner></Banner>
       <div className="reviews-area">
       <div className="container">
-        <div className="sect">
-          <h1>Customer Review</h1>
+      <div className="sect my-5 text-center">
+          <h1 className="text-center">Customer Review</h1>
         </div>
         <div className="row row-cols-1 row-cols-md-3 g-4">
           {reviews.slice(0,3).map((feedback) => (
@@ -21,7 +21,7 @@ const Home = () => {
         </div>
         <Link to='/reviews'>
         <button 
-          className="btn btn-lg btn-primary mx-auto d-block">Show All Reviews
+          className="my-5 btn btn-lg btn-primary mx-auto d-block">Show All Reviews
         </button>
       </Link>
       </div>

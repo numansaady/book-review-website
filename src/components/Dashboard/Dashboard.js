@@ -1,19 +1,19 @@
 import React, { useEffect, useState } from "react";
 import {
-    Area,
-    AreaChart,
-    Bar,
-    BarChart,
-    CartesianGrid,
-    Legend,
-    Line,
-    LineChart,
-    Pie,
-    PieChart,
-    ResponsiveContainer,
-    Tooltip,
-    XAxis,
-    YAxis
+  Area,
+  AreaChart,
+  Bar,
+  BarChart,
+  CartesianGrid,
+  Legend,
+  Line,
+  LineChart,
+  Pie,
+  PieChart,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis
 } from "recharts";
 
 const Dashboard = () => {
@@ -31,7 +31,7 @@ const Dashboard = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-6">
-            <h2>Monthly Sell Report</h2>
+            <h2 className="chart-title text-center my-4">Monthly Sell Report</h2>
             <ResponsiveContainer width="100%" height={500}>
               <LineChart
                 width={500}
@@ -59,7 +59,7 @@ const Dashboard = () => {
             </ResponsiveContainer>
           </div>
           <div className="col-md-6">
-            <h2>Investment and Revenue Report</h2>
+            <h2 className="chart-title text-center my-4">Investment and Revenue Report</h2>
             <ResponsiveContainer width="100%" height={500}>
               <AreaChart
                 width={500}
@@ -96,7 +96,7 @@ const Dashboard = () => {
         </div>
         <div className="row">
           <div className="col-md-6">
-            <h2>Investment Report in BarChart</h2>
+            <h2 className="chart-title text-center my-4">Investment Report in BarChart</h2>
             <ResponsiveContainer width="100%" height={500}>
               <BarChart
                 width={500}
@@ -120,7 +120,7 @@ const Dashboard = () => {
             </ResponsiveContainer>
           </div>
           <div className="col-md-6">
-            <h2>Pie Chart</h2>
+            <h2 className="chart-title text-center my-4">Pie Chart</h2>
             <ResponsiveContainer width="100%" height={500}>
               <PieChart width={400} height={400}>
                 <Pie
